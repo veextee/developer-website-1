@@ -23,12 +23,12 @@ const DeveloperChampionPage = () => {
                 experts and innovators, they are given the resources to not only
                 share the newest product innovations and updates but also to
                 provide feedback of the community back to New Relic product and
-                engineering teams.
+                engineering  teams.
               </p>
               <p>
                 Champions solve big problems using New Relic as their toolkit
                 and are recognized as experts and leaders in the New Relic
-                technical community.{' '}
+                technical community.{' '} 
               </p>
               <Button
                 as={ExternalLink}
